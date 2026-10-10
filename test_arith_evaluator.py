@@ -1,6 +1,6 @@
 import unittest
 
-from evaluator import evaluate
+from arith_evaluator import evaluate
 
 
 class EvaluatorTest(unittest.TestCase):
